@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Duz-ee
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in machine learning, Data Science, and backend development 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on projects using python 
 - 📫 How to reach me email: nchiduziem@gmail.com
