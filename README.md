@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Duz-ee
-- 👀 I’m interested in machine learning, Data Science, and backend development 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in backend development, and embedded systems 
+- 🌱 I’m currently learning python, c++, and c 
 - 💞️ I’m looking to collaborate on projects using python 
 - 📫 How to reach me email: nchiduziem@gmail.com
 
